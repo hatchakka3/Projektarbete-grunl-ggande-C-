@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projektarbete Spelregister", "Projektarbete Spelregister\Projektarbete Spelregister.csproj", "{2FEE148C-D476-4176-990E-69605796D611}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FEE148C-D476-4176-990E-69605796D611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FEE148C-D476-4176-990E-69605796D611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FEE148C-D476-4176-990E-69605796D611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FEE148C-D476-4176-990E-69605796D611}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E224B6EE-3F72-4FA3-BB03-AC72E68309E9}
+	EndGlobalSection
+EndGlobal
